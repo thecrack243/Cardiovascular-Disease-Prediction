@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; gap: 10px;">
     <div style="text-align: center;">
-        <img src="../notebooks/cover2.png" style="width:900px; height:450px;"><br>
+        <img src="notebooks/cover2.png" style="width:900px; height:450px;"><br>
     </div>
 </div>
 
