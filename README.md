@@ -31,13 +31,14 @@ Binary classification pipeline for cardiovascular disease detection using the **
 - **Preprocessing:** Median imputation + Z-score standardization (fit on train only)
 
 ## Project Structure
-├── data/
-│   ├── heart.csv                  # Raw dataset
-│   └── sample_test.csv            # Sample inference data
-├── notebooks/
-│   └── notebook.ipynb             # Full pipeline + interactive inference
-├── .gitignore
-└── requirements.txt
+
+    ├── data/
+    │   ├── heart.csv                  # Raw dataset
+    │   └── sample_test.csv            # Sample inference data
+    ├── notebooks/
+    │   └── notebook.ipynb             # Full pipeline + interactive inference
+    ├── .gitignore
+    └── requirements.txt
 
 
 ## Quick Start
